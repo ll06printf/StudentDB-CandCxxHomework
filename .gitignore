@@ -1,0 +1,7 @@
+# 忽略构建文件
+cmake-build*
+*.asm
+*.so
+*.a
+a.out
+*.exe
